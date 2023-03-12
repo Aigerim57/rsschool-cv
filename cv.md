@@ -10,7 +10,7 @@
 ## leading specialist, September 2018 - August 2020
 ### RSE "Kazakhstan Institute of Standardization and Certification", Astana
 ## metrology and standards engineer, June 2015 - September 2018
-### LLP "UACEC", Karaganda.
+### LLP "UACEC", Karaganda
 ## cpecialist, July 2018 - April 2015
 ### LLP "National Accreditation Center", Astana
 # Languages.
