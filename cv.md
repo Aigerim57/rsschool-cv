@@ -13,5 +13,5 @@
 ### LLP "UACEC", Karaganda
 ## cpecialist, July 2018 - April 2015
 ### LLP "National Accreditation Center", Astana
-# Languages.
+# Languages
 ## Kazakh - native, russian - advanced, english - A2
