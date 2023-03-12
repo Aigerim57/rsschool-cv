@@ -4,9 +4,9 @@
 ## +77016111522, aigera_yer92@mail.ru
 # Education:
 ## BA of Engineering and Technology in Standardization, Metriligy and Certification, Kazakh engineering and technical academy, 2011-2014, Astana
-# Experience.
+# Experience
 ## metrology engineer, August 2020 - now
-### ferroalloy plant.
+### ferroalloy plant
 ## leading specialist, September 2018 - August 2020
 ### RSE "Kazakhstan Institute of Standardization and Certification", Astana
 ## metrology and standards engineer, June 2015 - September 2018
